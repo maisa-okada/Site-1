@@ -17,7 +17,7 @@ a {
   text-decoration: none;
 }
 
-img {
+header img {
     hidth: 150px;
     height: 150px;
     border-radius: 50%;
@@ -30,3 +30,7 @@ img {
 h1 {
     color: #5BBE42;
 }
+
+footer img {
+    width: 400px;
+    height: 40px;
