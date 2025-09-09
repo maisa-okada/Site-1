@@ -33,8 +33,19 @@ background: salmon;
 margin: 30 px 0;
 }
 
-.input-box input{
+.input-box input {
 width: 100%;
 height: 100%;
 background: transparent;
 border: none;
+outline: none;
+border: 2px solid rgba(255, 255, 255, .2);
+border-radius: 40px;
+}
+
+.input-box::placeholder {
+  color: #fff;
+}
+
+.input_box
+}
