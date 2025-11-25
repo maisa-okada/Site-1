@@ -38,5 +38,5 @@ const questions = [
   ]
 
 const questionElement = document.getElementById("question");
-const answersButtons = document.get
+const answerButtons = document.getElementById("answer-buttons");
 
