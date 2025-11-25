@@ -1,1 +1,33 @@
-754
+const questions = [
+  {
+     question: "Qual é o maior animal do mundo?"
+     answers: [
+        { id: 1, text: "Tubarão", correct:false},
+        { id: 2, text: "Baleia Azul", correct:true},
+        { id: 3, text: "Elefante", correct:false},
+        { id: 4, text "Girafa", correct:false},
+      ]    
+ question: "Qual é o maior deserto do mundo?"
+     answers: [
+        { id: 1, text: "Kalahari", correct:false},
+        { id: 2, text: "Gobi", correct:false},
+        { id: 3, text: "Saara", correct:true},
+        { id: 4, text "Antartica", correct:false},
+      ]    
+ question: "Qual é o menor continente do mundo?"
+     answers: [
+        { id: 1, text: "Asia", correct:true},
+        { id: 2, text: "Austrália", correct:false},
+        { id: 3, text: "Ártico", correct:false},
+        { id: 4, text "África", correct:false},
+      ]    
+ question: "Qual é o menor país do mundo?"
+     answers: [
+        { id: 1, text: "Vaticano", correct:false},
+        { id: 2, text: "Butão", correct:true},
+        { id: 3, text: "Nepal", correct:false},
+        { id: 4, text "Shri Lanka", correct:false},
+      ]    
+    }
+  ]
+
